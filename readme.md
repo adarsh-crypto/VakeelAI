@@ -67,7 +67,7 @@ ollama pull nomic-embed-text
 4. **Pull and run LLaMA model for answering:**
 
 ```bash
-ollama pull llama3:instruct
+ollama pull llama3.2
 ```
 
 ---
